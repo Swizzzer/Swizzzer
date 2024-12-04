@@ -1,6 +1,6 @@
 ## About Me
 - 👨‍🎓 Cybersecurity & Cryptography Enthusiast
-- 🔭 A happy CTF player in [Del0n1x](https://ctftime.org/team/283146)
+- 🔭 A happy CTF player in <a href="https://ctftime.org/team/283146"><img alt="CTF Time Pages" src="https://img.shields.io/badge/CTFTime-Del0n1x-blue?style=flat-square&logo=C"></a>
 - ❤️ Love in *Rust*, *Python* and *Haskell*
 - 📖 Learning Algebra and Combinatorics
 - 💬 Ask me about cryptography at `a3lvc2hhZnRAb3V0bG9vay5jb20=`(base64)
