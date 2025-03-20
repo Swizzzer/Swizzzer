@@ -6,3 +6,5 @@
 - 💬 Ask me about cryptography at `a3lvc2hhZnRAb3V0bG9vay5jb20=`(base64)
 
 <a href="https://eupho.me/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swizzzer&layout=compact&hide_border=true" /></a>
+
+![Swizzer's stats](https://github-readme-stats.vercel.app/api?username=Swizzzer&show_icons=true&theme=radical)
