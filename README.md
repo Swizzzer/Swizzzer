@@ -7,4 +7,4 @@
 
 <a href="https://eupho.me/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swizzzer&layout=compact&hide_border=true" /></a>
 
-![Swizzer's stats](https://github-readme-stats.vercel.app/api?username=Swizzzer&show_icons=true&theme=radical)
+![Swizzer's stats](https://github-readme-stats.vercel.app/api?username=Swizzzer&show_icons=true&theme=transparent)
